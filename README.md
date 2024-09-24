@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChennaNarasimha
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Java-Fullstack,MERN STACK
+- 🌱 I’m currently learning Java-Fullstack,
 - 💞️ I’m looking to collaborate on git and other platforms
 - 📫 How to reach me gurijalachenna@gmail.com
 
