@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ChennaNarasimha
+- 👋 Hi, I’m @ChennaNarasimha 
+-  Intern at C-DAC Chennai
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Cloud Computing,
+- 🌱 I’m currently learning Cloud Computing (Openstack) , Virtualization.
 - 💞️ I’m looking to collaborate on git and other platforms
 - 📫 How to reach me gurijalachenna@gmail.com
 
